@@ -1,0 +1,54 @@
+{
+    "name": "BootstrapGulp",
+    "version": "1.0.0",
+    "main": "index.js",
+    "description": "starter Is The Beautiful One Page starter Template for Bootstrap 4.",
+    "keywords": [
+        "starter",
+        "starter-template",
+        "starter page",
+        "starter page Template",
+        "Bootstrap 4 Template",
+        "Bootstrap 4",
+        "HTML",
+        "SCSS",
+        "CSS",
+        "Bootstrap",
+        "responsive",
+        "theme",
+        "template",
+        "start"
+    ],
+    "homepage": "https://github.com/iamfritz/bs4-goya-gulp",
+    "author": "Fritz Darryl <hellosyntaxified@gmail.com> (https://syntaxified.com)",
+    "bugs": {
+        "url": "https://github.com/iamfritz/bs4-goya-gulp/issues",
+        "email": "hellosyntaxified@gmail.com"
+    },
+    "contributors": [{
+        "name": "Fritz Darryl Roca",
+        "email": "link4anything@gmail.com",
+        "url": "https://syntaxified.com/"
+    }],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/iamfritz/bs4-goya-gulp.git"
+    },
+    "license": "MIT",
+    "devDependencies": {
+        "browser-sync": "2.24.4",
+        "del": "^3.0.0",
+        "gulp": "^3.9.1",
+        "gulp-clean-css": "3.9.4",
+        "gulp-concat": "^2.6.1",
+        "gulp-rename": "^1.2.2",
+        "gulp-sass": "4.0.1",
+        "gulp-uglify": "3.0.0"
+    },
+    "dependencies": {
+        "bootstrap": "4.1.1",
+        "font-awesome": "4.7.0",
+        "jquery": "3.3.1",
+        "popper.js": "1.14.3"
+    }
+}
