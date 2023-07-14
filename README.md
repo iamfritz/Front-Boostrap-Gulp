@@ -1,4 +1,4 @@
-# [goya Themes - Starter Bootstrap 4 Starter Template]
+# [Themes - Starter Bootstrap 4 Starter Template]
 
 [Starter] is a **Free** and **Open Source** starter page template for [Bootstrap](https://getbootstrap.com/) with responsive.
 
